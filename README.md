@@ -14,6 +14,8 @@ This code was refactored and organized in order to create better accessibility f
 
 The refactored code has notes in the HTML as well as CSS files to explain the changes that were made and the intention of usability moving forward.
 
+## Mock-up
+
 ![Alt text](assets/images/horiseon-site-image.png)
 
 ## License
